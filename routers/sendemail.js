@@ -33,7 +33,7 @@ router.post(
 			let transporter = nodemailer.createTransport({
 				service: 'Gmail',
 				auth: {
-					user: 'arabsinnotts@gmail.com',
+					user: 'example@example.com',
 					pass: config.get('pswe')
 				}
 			});
