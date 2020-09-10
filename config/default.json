@@ -1,7 +1,3 @@
 {
-	"mongoURI": "mongodb+srv://hamza:h@medbnkora-86@cluster0-lq289.mongodb.net/test?retryWrites=true&w=majority",
-	"jwtSecret": "benko",
-
-	"dire": "sniper.mais-aream.com",
-	"pswe": "07477169550aA@"
+	
 }
